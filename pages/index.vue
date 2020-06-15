@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        ambulancia
+        Hola ambulancia
       </h1>
       <h2 class="subtitle">
         Servicio de ambulancias
