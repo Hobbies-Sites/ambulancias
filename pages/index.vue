@@ -12,7 +12,7 @@
           <div class="col px-0">
             <div class="row align-items-center justify-content-center">
               <div class="col-lg-12 text-center">
-                <h1 class="text-white display-1">Asesores Profesionales y Capacitación en Protección Civil 1 ok</h1>
+                <h1 class="text-white display-1">Asesores Profesionales y Capacitación en Protección Civil 1</h1>
                 <div class="btn-wrapper mt-4">
                   <a href="#" class="btn btn-warning btn-icon mt-3 mb-sm-0">
                     <span class="btn-inner--icon"><i class="ni ni-button-play"></i></span>
